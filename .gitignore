@@ -3,6 +3,6 @@
 logs
 **.pytest_cache
 cache
-verta-gcp.json
+AI-gcp.json
 **/__pycache__
 **/mlruns
