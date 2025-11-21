@@ -2,11 +2,11 @@ FROM python:3.12-slim
 
 RUN apt update -y && apt install awscli -y
 
-WORKDIR /verta-chatbot
+WORKDIR /AI-chatbot
 
 RUN pip install poetry
 
-COPY . /verta-chatbot
+COPY . /AI-chatbot
 
 RUN poetry config virtualenvs.create false 
 RUN poetry install --only main --no-root --verbose
