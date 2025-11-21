@@ -15,18 +15,18 @@ The chatbot’s data orchestration is powered by **Apache Airflow**, while **Fai
 ![system Achitecture](media/project%20Architecture.png)
 
 ## Getting Started - Guide
-To start working with the `AI-chatbot` project, please follow the setup instructions outlined in the [Project Setup Guide](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/SETUP.md).
+To start working with the `AI-chatbot` project, please follow the setup instructions outlined in the [Project Setup Guide](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/SETUP.md).
 
 This guide includes steps for creating a GCP account, configuring environment variables, setting up GitHub secrets, deploying locally, and hosting the Chatbot API. Once the initial setup is complete, you can explore the following detailed guides for specific aspects of the project:
 
-- [Understand the API Payloads](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/API_README.md)
-- [Explore ML Pipelines](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/00_ML_PIPELINES.md)
-- [Stage 1 - Base Model](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/01_BASE_MODEL.md)
-- [Stage 2 - Test Data Ingestion](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/02_TEST_INGESTION.md)
-- [Stage 3 - Model Evaluation](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/03_MODEL_EVALUATION.md)
-- [Stage 4 - Bias Detection](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/04_BIAS_DETECTION.md)
-- [CI/CD Workflow](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/CICD_WORKFLOW.MD)
-- [Cost Analysis](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/COST_ANALYSIS.md)
-- [Logging and Monitoring Setup](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/LOGGING_MONITORING.MD)
-- [Version Rollback](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/VERSION_ROLLBACK.md)
-- [Understand the Project Folder Structure](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/dev/readme/FOLDER_STRUCTURE.md)
+- [Understand the API Payloads](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/API_README.md)
+- [Explore ML Pipelines](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/00_ML_PIPELINES.md)
+- [Stage 1 - Base Model](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/01_BASE_MODEL.md)
+- [Stage 2 - Test Data Ingestion](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/02_TEST_INGESTION.md)
+- [Stage 3 - Model Evaluation](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/03_MODEL_EVALUATION.md)
+- [Stage 4 - Bias Detection](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/04_BIAS_DETECTION.md)
+- [CI/CD Workflow](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/CICD_WORKFLOW.MD)
+- [Cost Analysis](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/COST_ANALYSIS.md)
+- [Logging and Monitoring Setup](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/LOGGING_MONITORING.MD)
+- [Version Rollback](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/VERSION_ROLLBACK.md)
+- [Understand the Project Folder Structure](https://github.com/Tirth-saiyan/AI-chatbot-for-ecomm/blob/main/readme/FOLDER_STRUCTURE.md)
